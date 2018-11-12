@@ -1,5 +1,5 @@
-# Updated Portfolio - Friend Finder
+# Updated Portfolio - Burger
 
-Problem: Must update portfolio page to include Friend Finder app.
+Problem: Must update portfolio page to include Eat-Da-Burger app.
 
-[Link to Updated Portfolio - Bamazon](https://jrol.github.io/Updated-Portfolio-FriendFinder/)
+[Link to Updated Portfolio - Burger](https://github.com/jRol/Updated-Portfolio-Burger)
